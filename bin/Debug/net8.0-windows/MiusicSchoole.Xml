@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MusicSchoole>
+  <Clls-room name="guitara gaz">
+    <Teacher name="yossef" />
+    <Student name="dan">
+      <instrument>guitara</instrument>
+    </Student>
+    <Student name="ben">
+      <instrument>guitara</instrument>
+    </Student>
+    <Student name="ron">
+      <instrument>guitara</instrument>
+    </Student>
+    <Student name="gon">
+      <instrument>guitara</instrument>
+    </Student>
+    <Student name="fe">
+      <instrument>guitara</instrument>
+    </Student>
+  </Clls-room>
+</MusicSchoole>
